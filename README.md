@@ -1,2 +1,2 @@
 # Java-AVL-Tree
-CSC 131 Project. Java AVL tree implementation.
+CSC 130 Project. Java AVL tree implementation.
